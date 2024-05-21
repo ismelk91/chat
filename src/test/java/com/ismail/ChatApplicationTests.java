@@ -1,4 +1,4 @@
-package com.ismail.chat;
+package com.ismail;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
